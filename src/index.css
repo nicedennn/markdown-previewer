@@ -1,0 +1,51 @@
+body {
+  margin:5%;
+  background: lightslategrey;
+}
+
+#h2-css {
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: lighter;
+  color: rgb(29, 27, 43);
+  text-shadow: 2px 2px 8px lightsteelblue;
+  
+}
+
+#h1-css {
+  text-align: center;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  color:  rgb(29, 27, 43);
+  text-shadow: 2px 2px 8px lightsteelblue;
+}
+
+textarea {
+  background: honeydew;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:44%;
+  height:40%;
+  border: 1px solid;
+  resize: vertical;
+  box-shadow: 2px 2px 8px lightsteelblue;
+}
+
+#preview-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;
+  padding:2%;
+  height:auto;
+  border: 1px solid;
+  font-family: 'Helvetica Neue', sans-serif;
+  background: honeydew;
+  box-shadow: 2px 2px 8px lightsteelblue;
+}
+
+#preview {
+  display: block;
+  max-width: 100%;
+}
